@@ -5,9 +5,6 @@
 Mathematics and Computing student at Amrita Vishwa Vidyapeetham, Coimbatore. I learn by building — currently focused on Python, Flask, and data analysis, with a growing interest in Data Science and AI/ML.
 
 <br>
-
-<br>
-
 ## About
 
 - Currently building practical, full-stack projects to strengthen core Python and web development skills
