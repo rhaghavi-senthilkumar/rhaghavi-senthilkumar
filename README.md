@@ -1,4 +1,4 @@
-### Hi, I'm Rhaghavi 👋
+### Hi, I'm Rhaghavi 
 
 I'm a 2nd-year Mathematics and Computing student at Amrita Vishwa Vidyapeetham, Coimbatore. I'm interested in applying analytical and computational thinking to real problems, and I learn best by building — currently focused on Python and web development, with data analysis as the next skill I'm growing into.
 
@@ -13,9 +13,11 @@ I'm a 2nd-year Mathematics and Computing student at Amrita Vishwa Vidyapeetham, 
 - Micropython for Beginners — NIELIT Calicut
 
 **What I'm learning next:** 
+
 SQL and relational database design, and the fundamentals of data analysis/ML — building projects to go with both.
 
 **Beyond code:** 
+
 Campus Ambassador at IIT Delhi (2026), NSS volunteer for community welfare initiatives.
 
 **Reach me:**
