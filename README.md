@@ -2,7 +2,7 @@
 
 **Mathematics and Computing Student**
 
-Integrated MSc Mathematics and Computing student at Amrita Vishwa Vidyapeetham, Coimbatore. I learn by building — currently focused on Python, Flask, and data analysis, with a growing interest in Data Science and AI/ML.
+Mathematics and Computing student at Amrita Vishwa Vidyapeetham, Coimbatore. I learn by building — currently focused on Python, Flask, and data analysis, with a growing interest in Data Science and AI/ML.
 
 <br>
 
@@ -63,10 +63,12 @@ Integrated MSc Mathematics and Computing student at Amrita Vishwa Vidyapeetham, 
 ## Projects
 
 - **Smart Campus Issue Reporter** — Role-based web app (Flask, SQLite) where students report campus issues (electricity, water, cleanliness, WiFi) and admins manage them through a dashboard with pie, bar, and line chart insights. Built with Python, Flask, SQLite, Pandas, Matplotlib, Seaborn.
-  Repository: https://github.com/rhaghavi-senthilkumar/campus-issue-reporter
+
+Repository: https://github.com/rhaghavi-senthilkumar/campus-issue-reporter
 
 - **Flight Delay Analysis** — Data analysis project exploring flight delay patterns using Python and Pandas. Currently in progress — repository to be published soon.
-  Repository: to be added
+
+Repository: to be added
 
 <br>
 
