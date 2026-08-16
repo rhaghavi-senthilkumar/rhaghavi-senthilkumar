@@ -6,14 +6,6 @@ Mathematics and Computing student at Amrita Vishwa Vidyapeetham, Coimbatore. I l
 
 <br>
 
-## Connect
-
-<p>
-<a href="https://linkedin.com/in/rhaghavisenthilkumar21"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/rhaghavi-senthilkumar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:rhaghavi02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 <br>
 
 ## About
@@ -56,6 +48,7 @@ Mathematics and Computing student at Amrita Vishwa Vidyapeetham, Coimbatore. I l
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logoColor=white" />
 </p>
 
 <br>
@@ -87,13 +80,25 @@ Repository: to be added
 
 <br>
 
+## Connect
+
+<p>
+<a href="https://linkedin.com/in/rhaghavisenthilkumar21"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/rhaghavi-senthilkumar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:rhaghavi02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rhaghavi-senthilkumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rhaghavi-senthilkumar&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rhaghavi-senthilkumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="60%" />
 </p>
 
 <br>
 
+<div align="center">
+
 **Coimbatore, India**
+
+</div>
