@@ -45,10 +45,10 @@ Mathematics and Computing student at Amrita Vishwa Vidyapeetham, Coimbatore. I l
 **Tools**
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-EA580C?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-2563EB?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-0891B2?style=for-the-badge&logoColor=white" />
 </p>
 
 <br>
@@ -88,14 +88,6 @@ Repository: to be added
 <a href="mailto:rhaghavi02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rhaghavi-senthilkumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="60%" />
-</p>
-
-<br>
 
 <div align="center">
 
