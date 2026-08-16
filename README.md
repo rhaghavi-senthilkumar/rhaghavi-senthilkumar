@@ -17,4 +17,4 @@ I'm a 2nd-year Mathematics and Computing student at Amrita Vishwa Vidyapeetham, 
 **Beyond code:** Campus Ambassador at IIT Delhi (2026), NSS volunteer for community welfare initiatives.
 
 **Reach me:**
-[LinkedIn](https://linkedin.com/in/rhaghavisenthilkumar21) · rhaghavi02@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rhaghavisenthilkumar21)(https://linkedin.com/in/rhaghavisenthilkumar21) · rhaghavi02@gmail.com
