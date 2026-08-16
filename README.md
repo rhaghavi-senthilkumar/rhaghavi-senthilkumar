@@ -30,7 +30,7 @@ Mathematics and Computing student at Amrita Vishwa Vidyapeetham, Coimbatore. I l
 <p>
 <img src="https://img.shields.io/badge/Pandas-6B4FA1?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-147D92?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-D97745?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-DB2777?style=for-the-badge&logo=plotly&logoColor=white" />
 <img src="https://img.shields.io/badge/Seaborn-4F6D8A?style=for-the-badge" />
 </p>
 
@@ -38,14 +38,14 @@ Mathematics and Computing student at Amrita Vishwa Vidyapeetham, Coimbatore. I l
 
 <p>
 <img src="https://img.shields.io/badge/Flask-374151?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E76F51?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-DB2777?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-3B82C4?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 **Tools**
 
 <p>
-<img src="https://img.shields.io/badge/Git-E07A3F?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-DB2777?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-6B4FA1?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-3B82C4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Antigravity-147D92?style=for-the-badge&logoColor=white" />
