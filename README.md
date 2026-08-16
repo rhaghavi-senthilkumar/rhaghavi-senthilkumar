@@ -6,19 +6,16 @@ I'm a 2nd-year Mathematics and Computing student at Amrita Vishwa Vidyapeetham, 
 [Smart Campus Issue Reporter](https://github.com/rhaghavi07/campus-issue-reporter) — a role-based web app (Flask + SQLite) where students report campus issues and admins track/manage them through a data dashboard with pie, bar, and line chart insights.
 
 **Tech I've worked with:**
+
 `Python` `Flask` `SQLite` `Pandas` `NumPy` `Matplotlib` `Seaborn` `HTML` `CSS`
 
 **Certifications:**
 - Programming in Python — Coursera (Meta)
 - Micropython for Beginners — NIELIT Calicut
 
-**What I'm learning next:** 
+**What I'm learning next:** SQL and relational database design, and the fundamentals of data analysis/ML — building projects to go with both.
 
-SQL and relational database design, and the fundamentals of data analysis/ML — building projects to go with both.
-
-**Beyond code:** 
-
-Campus Ambassador at IIT Delhi (2026), NSS volunteer for community welfare initiatives.
+**Beyond code:** Campus Ambassador at IIT Delhi (2026), NSS volunteer for community welfare initiatives.
 
 **Reach me:**
 [LinkedIn](https://linkedin.com/in/rhaghavisenthilkumar21) · rhaghavi02@gmail.com
