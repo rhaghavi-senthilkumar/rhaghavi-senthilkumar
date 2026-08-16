@@ -6,8 +6,7 @@ I'm a 2nd-year Mathematics and Computing student at Amrita Vishwa Vidyapeetham, 
 [Smart Campus Issue Reporter](https://github.com/rhaghavi07/campus-issue-reporter) — a role-based web app (Flask + SQLite) where students report campus issues and admins track/manage them through a data dashboard with pie, bar, and line chart insights.
 
 **Tech I've worked with:**
-
-`Python` `Flask` `SQLite` `Pandas` `NumPy` `Matplotlib` `Seaborn` `HTML` `CSS`
+`Python` `Flask` `SQLite` `Pandas` `NumPy` `Matplotlib` `Seaborn` `HTML` `CSS` 
 
 **Certifications:**
 - Programming in Python — Coursera (Meta)
@@ -19,18 +18,3 @@ I'm a 2nd-year Mathematics and Computing student at Amrita Vishwa Vidyapeetham, 
 
 **Reach me:**
 [LinkedIn](https://linkedin.com/in/rhaghavisenthilkumar21) · rhaghavi02@gmail.com
-
-<!--
-**rhaghavi-senthilkumar/rhaghavi-senthilkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
