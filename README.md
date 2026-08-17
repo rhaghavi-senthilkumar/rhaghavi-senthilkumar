@@ -62,21 +62,6 @@ Repository: to be added
 
 <br>
 
-## Certifications
-
-- Programming in Python — Coursera (Meta)
-- MicroPython for Beginners — NIELIT Calicut
-
-<br>
-
-## Currently Learning
-
-- SQL and Relational Database Design
-- Data Analysis Fundamentals
-- Introduction to Machine Learning
-
-<br>
-
 ## Connect
 
 <p>
