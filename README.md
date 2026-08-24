@@ -49,7 +49,7 @@
 - Repository: https://github.com/rhaghavi-senthilkumar/campus-issue-reporter
 
 **Flight Delay Analysis**
-- Data analysis project exploring flight delay patterns using Python and Pandas. Currently in progress — repository to be published soon.
+- Data analysis project exploring flight delay patterns using Python and Pandas. Currently in progress.
 - Repository: to be added
 
 <br>
