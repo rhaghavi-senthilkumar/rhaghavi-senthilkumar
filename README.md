@@ -38,7 +38,6 @@
 <img src="https://img.shields.io/badge/Git-DB2777?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-6B4FA1?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-3B82C4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Antigravity-147D92?style=for-the-badge&logoColor=white" />
 </p>
 
 <br>
